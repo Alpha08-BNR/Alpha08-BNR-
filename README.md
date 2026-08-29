@@ -8,7 +8,7 @@ I am a **Security Researcher** specializing in computer architecture, low-level 
 Feel free to reach out or follow my work across my professional and social networks:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-th%E1%BA%BF-02776b422" target="_blank">
+  <a href="https://www.linkedin.com/in/alpha-bnr-02776b422" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/share/1CDy638SMQ/" target="_blank">
